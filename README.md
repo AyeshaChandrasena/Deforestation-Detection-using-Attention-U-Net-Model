@@ -7,7 +7,7 @@ Below image displays the Attention U-Net architecure.
 
 The attention U-Net model performs well with 84 % accuracy for test data with high precision and recall values as shown in below. Moreover, the below illustrates the training and validation IoU and training and validation loss for the model. Furthermore, the model performs 84% accuracy for validation and training data with 62% of jaccard coefficient value. The below training history graphs illustrates that the attention U-Net model generalizes well for training and validation data. The findings of this study contributes to more efficient monitoring in deforestation which leads to identify damaged forests.
 
-![image alt]([Training vs Validation IOU.png](https://github.com/AyeshaChandrasena/Deforestation-Detection-using-Attention-U-Net-Model/blob/d672a1eb2a614c8c39c2e7c0417ef6087a499e5a/Training%20vs%20Validation%20IOU.png))
+![image alt](https://github.com/AyeshaChandrasena/Deforestation-Detection-using-Attention-U-Net-Model/blob/d672a1eb2a614c8c39c2e7c0417ef6087a499e5a/Training%20vs%20Validation%20IOU.png)
 
 ![image alt](https://github.com/AyeshaChandrasena/Deforestation-Detection-using-Attention-U-Net-Model/blob/4f8b620da8ea36a95c66ad4b61d00600f4264c4e/Example-of-2D-Attention-U-Net-architecture-with-3-downsampling-levels-and-detailed.png)
 
