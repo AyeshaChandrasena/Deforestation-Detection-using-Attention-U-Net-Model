@@ -9,6 +9,6 @@ The attention U-Net model performs well with 84 % accuracy for test data with hi
 
 ![image alt](https://github.com/AyeshaChandrasena/Deforestation-Detection-using-Attention-U-Net-Model/blob/d672a1eb2a614c8c39c2e7c0417ef6087a499e5a/Training%20vs%20Validation%20IOU.png)
 
-![image alt](https://github.com/AyeshaChandrasena/Deforestation-Detection-using-Attention-U-Net-Model/blob/4f8b620da8ea36a95c66ad4b61d00600f4264c4e/Example-of-2D-Attention-U-Net-architecture-with-3-downsampling-levels-and-detailed.png)
+![image alt](https://github.com/AyeshaChandrasena/Deforestation-Detection-using-Attention-U-Net-Model/blob/a46b41d687b31501f397f6e334b4d5bc1027db43/Training%20and%20Validation%20Loss.png)
 
 ![image alt](https://github.com/AyeshaChandrasena/Deforestation-Detection-using-Attention-U-Net-Model/blob/4f8b620da8ea36a95c66ad4b61d00600f4264c4e/Example-of-2D-Attention-U-Net-architecture-with-3-downsampling-levels-and-detailed.png)
